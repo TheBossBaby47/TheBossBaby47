@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm a dedicated game developer with 5 years of experience, and I'm all about bringing smiles and joy to people through the magic of coding!
 
 <!--
 **TheBossBaby47/TheBossBaby47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
